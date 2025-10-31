@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Murodullayev Ozodbek</h1>
+<h3 align="center">Front-End Developer</h3>
 
-<!--
-**murodullayevozodbek/murodullayevozodbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,js,html,css"/><br/>
+  <img src="https://skillicons.dev/icons?i=github,python"/><br/>
+  <img src="https://skillicons.dev/icons?i=pyvharm,vscode"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://t.me/murodullayevozodbek">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="telegram"/>
+  </a>
+  <a href="mailto:ozodbekmurodullayev013@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail"/>
+  </a>
+</p>
