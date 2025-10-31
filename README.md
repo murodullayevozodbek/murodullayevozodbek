@@ -8,8 +8,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,js,html,css"/><br/>
-  <img src="https://skillicons.dev/icons?i=github,python"/><br/>
-  <img src="https://skillicons.dev/icons?i=pyvharm,vscode"/>
+  <img src="https://skillicons.dev/icons?i=github,python" class="align-items-center"/><br/>
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode"/>
 </p>
 
 ---
