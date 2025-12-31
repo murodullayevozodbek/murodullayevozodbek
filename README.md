@@ -15,7 +15,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://t.me/murodullayevozodbek">
+  <a href="https://t.me/ozodbekpsg">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="telegram"/>
   </a>
   <a href="mailto:ozodbekmurodullayev013@gmail.com">
